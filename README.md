@@ -8,3 +8,5 @@ The dataset used is the Vietnamese Common Voice dataset. Remember to choose the 
 
 ## Important note: 
 The dataset used in the notebook is already preprocessed to have only the samples with defined male/female labels.
+
+The "clips" folder is consist of all audio samples, which is too large for GitHub to be uploaded so we're just going to upload the "Dataset" with an empty "clips" folder
